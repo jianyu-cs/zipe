@@ -1,5 +1,0 @@
-Please identify whether the premise entails the hypothesis. The answer should be exact 'entail' or 'not entail'
-
-premise: {sentence_1}
-hypothesis: {sentence_1}
-answer:

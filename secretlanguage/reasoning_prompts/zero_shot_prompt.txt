@@ -1,1 +1,0 @@
-Q {sentence_1}\nA: Let's think step by step. 
