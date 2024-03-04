@@ -1,0 +1,33 @@
+{"prompt": "{sentence_1} Classify the article to one out of the four topics 'World', 'Sports', 'Business', 'Tech'.", "index": "0"}
+{"prompt": "{sentence_1} What label best describes this news article?", "index": "1"}
+{"prompt": "{sentence_1} Is this a piece of news regarding \"world politics, sports, business, or science and technology\"?", "index": "2"}
+{"prompt": "{sentence_1} Would you recommend the article to a \"politician\", an \"athelete\", a \"business executive\", or a \"scientist\"?", "index": "3"}
+{"prompt": "{sentence_1}\n\nWhich of the following sections of a newspaper would this article likely appear in? \"World News\", \"Sports\", \"Business\", or \"Science and Technology\"?", "index": "4"}
+{"prompt": "{sentence_1}\n\nWhich section of a newspaper would this article likely appear in?", "index": "5"}
+{"prompt": "{sentence_1} This passage is about", "index": "6"}
+{"prompt": "{sentence_1} It describes the news of", "index": "7"}
+{"prompt": "The objective is to assign the article into one of the four categories, namely \"World,\" \"Sports,\" \"Business,\" and \"Tech,\" based on its main subject matter.\nSentence: {sentence_1}\nTopic:", "index": "8"}
+{"prompt": "You are required to categorize the article into the appropriate topic, be it \"World,\" \"Sports,\" \"Business,\" or \"Tech,\" depending on its primary focus.\nSentence: {sentence_1}\nTopic:", "index": "9"}
+{"prompt": "Your duty is to determine the article's primary theme and classify it under one of the four topics: \"World,\" \"Sports,\" \"Business,\" or \"Tech.\"\nSentence: {sentence_1}\nTopic:", "index": "10"}
+{"prompt": "The task at hand is to allocate the article to the corresponding category, \"World,\" \"Sports,\" \"Business,\" or \"Tech,\" based on its relevance to those subjects.\nSentence: {sentence_1}\nTopic:", "index": "11"}
+{"prompt": "You have been assigned the responsibility of sorting the article into one of four categories, specifically \"World,\" \"Sports,\" \"Business,\" or \"Tech,\" depending on its alignment with those subjects.\nSentence: {sentence_1}\nTopic:", "index": "12"}
+{"prompt": "It is your job to identify the main topic of the article and assign it to the appropriate category, whether it falls under \"World,\" \"Sports,\" \"Business,\" or \"Tech.\"\nSentence: {sentence_1}\nTopic:", "index": "13"}
+{"prompt": "You are tasked with classifying the article into one of four topics: \"World,\" \"Sports,\" \"Business,\" or \"Tech,\" according to its primary subject matter.\nSentence: {sentence_1}\nTopic:", "index": "14"}
+{"prompt": "The aim is to categorize the article under one of the four topics, namely \"World,\" \"Sports,\" \"Business,\" or \"Tech,\" based on its primary focus.\nSentence: {sentence_1}\nTopic:", "index": "15"}
+{"prompt": "Your objective is to determine the primary theme of the article and assign it to the corresponding topic: \"World,\" \"Sports,\" \"Business,\" or \"Tech.\"\nSentence: {sentence_1}\nTopic:", "index": "16"}
+{"prompt": "The task requires you to classify the article into one of the four categories, specifically \"World,\" \"Sports,\" \"Business,\" or \"Tech,\" depending on its main subject matter.\nSentence: {sentence_1}\nTopic:", "index": "17"}
+{"prompt": "You have the responsibility of categorizing the article into the appropriate topic, be it \"World,\" \"Sports,\" \"Business,\" or \"Tech,\" based on its primary focus.\nSentence: {sentence_1}\nTopic:", "index": "18"}
+{"prompt": "It is your duty to identify the article's main topic and allocate it to one of the four topics: \"World,\" \"Sports,\" \"Business,\" or \"Tech.\"\nSentence: {sentence_1}\nTopic:", "index": "19"}
+{"prompt": "You are required to determine the article's main subject and classify it under one of the four topics: \"World,\" \"Sports,\" \"Business,\" or \"Tech.\"\nSentence: {sentence_1}\nTopic:", "index": "20"}
+{"prompt": "The objective at hand is to assign the article to the corresponding category, \"World,\" \"Sports,\" \"Business,\" or \"Tech,\" based on its relevance to those subjects.\nSentence: {sentence_1}\nTopic:", "index": "21"}
+{"prompt": "You have been tasked with the responsibility of sorting the article into one of four categories, specifically \"World,\" \"Sports,\" \"Business,\" or \"Tech,\" depending on its alignment with those subjects.\nSentence: {sentence_1}\nTopic:", "index": "22"}
+{"prompt": "It is your job to identify the article's primary theme and assign it to the appropriate category, whether it falls under \"World,\" \"Sports,\" \"Business,\" or \"Tech.\"\nSentence: {sentence_1}\nTopic:", "index": "23"}
+{"prompt": "You are assigned with the duty of classifying the article into one of four topics: \"World,\" \"Sports,\" \"Business,\" or \"Tech,\" according to its primary subject matter.\nSentence: {sentence_1}\nTopic:", "index": "24"}
+{"prompt": "The aim is to categorize the article under one of the four topics, namely \"World,\" \"Sports,\" \"Business,\" or \"Tech,\" based on its primary focus.\nSentence: {sentence_1}\nTopic:", "index": "25"}
+{"prompt": "Your objective is to determine the primary theme of the article and assign it to the corresponding topic: \"World,\" \"Sports,\" \"Business,\" or \"Tech.\"\nSentence: {sentence_1}\nTopic:", "index": "26"}
+{"prompt": "The task requires you to classify the article into one of the four categories, specifically \"World,\" \"Sports,\" \"Business,\" or \"Tech,\" depending on its main subject matter.\nSentence: {sentence_1}\nTopic:", "index": "27"}
+{"prompt": "The objective is the article into of the four categories Sports , and , based its main subject matter.ence {sentence_1}", "index": "28"}
+{"prompt": ". into , categoriesence {sentence_1} , andThe main objective subject of Sports the based its the four is matter article", "index": "29"}
+{"prompt": " matter {sentence_1} , Sports article subject the its of. andThe based the main four categories into ,ence is objective", "index": "30"}
+{"prompt": " objective , main into Sports of. and based the fourence {sentence_1}The categories is its , article subject matter the", "index": "31"}
+{"prompt": " {sentence_1} , Sports matterence based subject into. , main four ofThe objective is article its and the categories the", "index": "32"}

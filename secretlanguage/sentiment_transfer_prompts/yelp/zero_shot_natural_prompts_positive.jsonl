@@ -1,0 +1,31 @@
+{"prompt": "Here is some text: \"{sentence_1}\". Here is a rewrite of the text, which is more positive: \"", "index": "0"}
+{"prompt": "Change the following sentence from negative sentiment to positive sentiment but keep its semantics. \"{sentence_1}\" \"", "index": "1"}
+{"prompt": "\"{sentence_1}\". Rewrite the sentence to be happier but have the same meaning. \"", "index": "2"}
+{"prompt": "Let's rephrase the sentence to bring more joy, while maintaining the same meaning. \"{sentence_1}\" \"", "index": "3"}
+{"prompt": "Find a way to make the sentence more cheerful without changing its essence. \"{sentence_1}\" \"", "index": "4"}
+{"prompt": "Give the sentence a happier tone while preserving its original meaning. \"{sentence_1}\" \"", "index": "5"}
+{"prompt": "Can you reword the sentence to convey a sense of happiness, while keeping its meaning intact? \"{sentence_1}\" \"", "index": "6"}
+{"prompt": "Transform the sentence into a more joyful expression, but retain its core message. \"{sentence_1}\" \"", "index": "7"}
+{"prompt": "Bring a smile to the sentence without altering its intended meaning. \"{sentence_1}\" \"", "index": "8"}
+{"prompt": "Infuse the sentence with happiness while ensuring its meaning remains unchanged. \"{sentence_1}\" \"", "index": "9"}
+{"prompt": "Brighten up the sentence while staying true to its original meaning. \"{sentence_1}\" \"", "index": "10"}
+{"prompt": "Let's put a positive spin on the sentence while maintaining its meaning. \"{sentence_1}\" \"", "index": "11"}
+{"prompt": "Keep the sentence's meaning intact, but make it more delightful in its delivery. \"{sentence_1}\" \"", "index": "12"}
+{"prompt": "Can you rewrite this text with a cheerful and optimistic mood? \"{sentence_1}\" \"", "index": "13"}
+{"prompt": "Give this statement a positive spin and rephrase it accordingly. \"{sentence_1}\" \"", "index": "14"}
+{"prompt": "Take this paragraph and infuse it with a sense of joy and enthusiasm. \"{sentence_1}\" \"", "index": "15"}
+{"prompt": "Rewrite this passage with a positive outlook, emphasizing the bright side. \"{sentence_1}\" \"", "index": "16"}
+{"prompt": "Give this statement a positive sentiment and rewrite it with enthusiasm. \"{sentence_1}\" \"", "index": "17"}
+{"prompt": "Take this text and transfer its tone to one of positivity and happiness. \"{sentence_1}\" \"", "index": "18"}
+{"prompt": "Rewrite this passage with a positive vibe, spreading optimism and joy. \"{sentence_1}\" \"", "index": "19"}
+{"prompt": "Transform this paragraph into a motivational and encouraging message. \"{sentence_1}\" \"", "index": "20"}
+{"prompt": "Give this statement a positive twist and rephrase it with optimism. \"{sentence_1}\" \"", "index": "21"}
+{"prompt": "Take this paragraph and imbue it with a sense of optimism and positivity. \"{sentence_1}\" \"", "index": "22"}
+{"prompt": "Here some:{sentence_1}. of the which more:", "index": "23"}
+{"prompt": " the more: which of{sentence_1}Here. some:", "index": "24"}
+{"prompt": " of:{sentence_1}. the which: more someHere", "index": "25"}
+{"prompt": " some of theHere:. which: more{sentence_1}", "index": "26"}
+{"prompt": " more:Here which the: of some.{sentence_1}", "index": "27"}
+{"prompt": "{sentence_1}\". Rew the sentence to happier have meaning. \"", "index":"28"}
+{"prompt": "Find to make sentence cheerful changing its essence. \"{sentence_1}\" \"", "index": "29"}
+{"prompt": " this text ofitivity happiness. \"{sentence_1}\" \"", "index": "30"}

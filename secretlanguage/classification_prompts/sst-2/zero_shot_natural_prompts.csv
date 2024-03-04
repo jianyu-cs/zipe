@@ -1,0 +1,10 @@
+prompt,index
+"{{sentence_1}} In a nutshell, this movie is",0
+"{{sentence_1}} Based on that, my rating for this place is",1
+"Review: {{sentence_1}}
+Is the review great or terrible?",2
+"Review: {{sentence_1}}
+Does this product review convey a negative or positive sentiment?",3
+{{sentence_1}} It was,4
+"In this task, you are given sentences from movie reviews. The task is to classify a sentence as ""great"" if the sentiment of the sentence is positive or as ""terrible"" if the sentiment of the sentence is negative. {{sentence_1}} It was",5
+{{sentence_1}} The sentiment of the sentence is,6

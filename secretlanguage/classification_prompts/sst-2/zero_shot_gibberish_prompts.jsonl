@@ -1,0 +1,13 @@
+{"prompt": "{sentence_1} ResourceRatingCollectCondition Absolutely", "index": "0"}
+{"prompt": "{sentence_1} DesktopSkillClub rated VERY", "index": "1"}
+{"prompt": "{sentence_1} GamingProductYearJudge strongly", "index": "2"}
+{"prompt": "{sentence_1} BoardPoliceGames Grade thoroughly", "index": "3"}
+{"prompt": "{sentence_1} PlayerReviewCrewRoom strongly", "index": "4"}
+{"prompt": "{sentence_1} itageitagetainment\ufffd\ufffd emotionally", "index": "5"}
+{"prompt": "{sentence_1} BrowserMemorySwitchSync particularly", "index": "6"}
+{"prompt": "{sentence_1} CustomerPureRes completely downright", "index": "7"}
+{"prompt": "{sentence_1} LineMotion UI execution smells", "index": "8"}
+{"prompt": "{sentence_1} Status formatting foolish visually intellectually", "index": "9"}
+{"prompt": "Review sept another.\nSentiment: terrible\n, vibrant individual accessible\niment: great\n\nReview: {sentence_1}Sentiment:", "index": "10"}
+{"prompt": "Review sept another.\nSentiment: terrible\n, vibrant\niment: great\n\nReview: {sentence_1}Sentiment:", "index": "11"}
+{"prompt": " {sentence_1}Ass", "index": "12"}

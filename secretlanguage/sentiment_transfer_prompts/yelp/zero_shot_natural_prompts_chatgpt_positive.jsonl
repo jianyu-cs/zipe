@@ -1,0 +1,3 @@
+{"prompt": "Change the following sentence from negative sentiment to positive sentiment but keep its semantics.\nSentence: \"{sentence_1}\"\nResult: \"", "index": 0}
+{"prompt": "\"{sentence_1}\". Rewrite the sentence to be happier but have the same meaning.\n\"", "index": 1}
+{"prompt": "Here is some text: \"{sentence_1}\". Here is a rewrite of the text, which is more positive: \"", "index": 2}

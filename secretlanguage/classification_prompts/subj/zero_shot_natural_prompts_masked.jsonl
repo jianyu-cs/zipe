@@ -1,0 +1,29 @@
+{"prompt": "{sentence_1} From my viewpoint, the statement before is {mask_token} .", "index": "0"}
+{"prompt": "{sentence_1} Is this sentence \"subjective\" or \"objective\"? {mask_token} .", "index": "1"}
+{"prompt": "{sentence_1} Judge the opinion of this sentence, as whether it is subjective or objective. Answer: {mask_token} .", "index": "2"}
+{"prompt": "{sentence_1} In terms of personal opinion, previous statement is {mask_token} .", "index": "3"}
+{"prompt": "{sentence_1} I think the sentence before is {mask_token} .", "index": "4"}
+{"prompt": "In this task, you are given sentences from reviews. The task is to classify a sentence as \"subjective\" if the opinion of the sentence is subjective or as \"objective\" if the opinion of the sentence is objective.\n\nReview: {sentence_1}\nAnswer: {mask_token} .", "index": "5"}
+{"prompt": "Please judge the opinion of the following sentence whether it is subjective or objective. {sentence_1} It is {mask_token} .", "index": "6"}
+{"prompt": "Given a sentence, classify its opinion as either subjective or objective.\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "7"}
+{"prompt": "Please ascertain whether this statement conveys subjective or objective viewpoints.\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "8"}
+{"prompt": "Can you decide if this sentence reflects subjective or objective opinions?\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "9"}
+{"prompt": "It is necessary to establish whether this statement portrays subjective or objective viewpoints.\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "10"}
+{"prompt": "We need to figure out whether this sentence conveys subjective or objective opinions.\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "11"}
+{"prompt": "Identify whether this sentence expresses subjective or objective viewpoints.\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "12"}
+{"prompt": "Is it possible to determine if this statement reflects subjective or objective opinions?\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "13"}
+{"prompt": "The task at hand is to discern whether this sentence portrays subjective or objective viewpoints.\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "14"}
+{"prompt": "Let's determine if this sentence conveys subjective or objective opinions.\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "15"}
+{"prompt": "We should analyze whether this statement reflects subjective or objective viewpoints.\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "16"}
+{"prompt": "Could you assess if this sentence expresses subjective or objective opinions?\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "17"}
+{"prompt": "The question is whether this statement conveys subjective or objective viewpoints.\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "18"}
+{"prompt": "We must establish if this sentence reflects subjective or objective opinions.\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "19"}
+{"prompt": "It is crucial to determine whether this statement portrays subjective or objective viewpoints.\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "20"}
+{"prompt": "Can we ascertain if this sentence conveys subjective or objective opinions?\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "21"}
+{"prompt": "Please analyze whether this sentence expresses subjective or objective viewpoints.\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "22"}
+{"prompt": "The objective is to decide whether this statement reflects subjective or objective opinions.\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "23"}
+{"prompt": "We need to evaluate if this sentence portrays subjective or objective viewpoints.\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "24"}
+{"prompt": "Could you determine whether this sentence conveys subjective or objective opinions?\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "25"}
+{"prompt": "Let's assess if this statement reflects subjective or objective viewpoints.\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "26"}
+{"prompt": "It is important to establish whether this sentence expresses subjective or objective opinions.\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "27"}
+{"prompt": "\nSentence: {sentence_1}\nOpinion: {mask_token} .", "index": "28"}

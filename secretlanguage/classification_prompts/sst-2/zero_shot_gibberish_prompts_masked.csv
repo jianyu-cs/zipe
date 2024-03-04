@@ -1,0 +1,11 @@
+prompt,index
+{{sentence_1}} ResourceRatingCollectCondition Absolutely {mask_token} .,0
+{{sentence_1}} DesktopSkillClub rated VERY {mask_token} .,1
+{{sentence_1}} GamingProductYearJudge strongly {mask_token} .,2
+{{sentence_1}} BoardPoliceGames Grade thoroughly {mask_token} .,3
+{{sentence_1}} PlayerReviewCrewRoom strongly {mask_token} .,4
+{{sentence_1}} SenateRatingSenate rated Grade {mask_token} .,5
+{{sentence_1}} BrowserMemorySwitchSync particularly {mask_token} .,6
+{{sentence_1}} CustomerPureRes completely downright {mask_token} .,7
+{{sentence_1}} LineMotion UI execution smells {mask_token} .,8
+{{sentence_1}} Status formatting foolish visually intellectually {mask_token} .,9

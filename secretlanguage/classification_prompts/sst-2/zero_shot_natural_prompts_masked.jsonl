@@ -1,0 +1,29 @@
+{"prompt": "{sentence_1} In a nutshell, this movie is {mask_token} .", "index": "0"}
+{"prompt": "{sentence_1} Based on that, my rating for this place is {mask_token} .", "index": "1"}
+{"prompt": "Review: {sentence_1}\nIs the review great or terrible? {mask_token} .", "index": "2"}
+{"prompt": "Review: {sentence_1}\nDoes this product review convey a negative or positive sentiment? {mask_token} .", "index": "3"}
+{"prompt": "{sentence_1} It was {mask_token} .", "index": "4"}
+{"prompt": "In this task, you are given sentences from movie reviews. The task is to classify a sentence as \"great\" if the sentiment of the sentence is positive or as \"terrible\" if the sentiment of the sentence is negative. {sentence_1} It was {mask_token} .", "index": "5"}
+{"prompt": "{sentence_1} Obviously, the sentiment of the sentence is {mask_token} .", "index": "6"}
+{"prompt": "{sentence_1} What emotions are conveyed in previous sentence? {mask_token} .", "index": "7"}
+{"prompt": "{sentence_1} Analyze the sentiment expressed in this review. It was {mask_token} .", "index": "8"}
+{"prompt": "Assess if a movie critique expresses a positive or negative viewpoint.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "9"}
+{"prompt": "Ascertain whether a review of a film leans towards positivity or negativity.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "10"}
+{"prompt": "Establish the nature of a movie evaluation, whether it is favorable or unfavorable.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "11"}
+{"prompt": "Make a judgment on whether a movie review exhibits a positive or negative sentiment.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "12"}
+{"prompt": "Decide if a film appraisal conveys a positive or negative impression.\nReview: {sentence_1}\nImpression: {mask_token} .", "index": "13"}
+{"prompt": "Determine the tone of a movie review, indicating whether it is positive or negative.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "14"}
+{"prompt": "Gauge whether a critique of a film leans towards a positive or negative assessment.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "15"}
+{"prompt": "Formulate an opinion on whether a movie review reflects positivity or negativity.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "16"}
+{"prompt": "Conclude whether a film evaluation leans towards a positive or negative viewpoint.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "17"}
+{"prompt": "Ascertain the overall sentiment of a movie review, determining if it is positive or negative.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "18"}
+{"prompt": "Establish whether a movie critique expresses a favorable or unfavorable opinion.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "19"}
+{"prompt": "Make a determination on the positivity or negativity conveyed in a film appraisal.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "20"}
+{"prompt": "Assess the tone of a movie review, discerning whether it leans towards positivity or negativity.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "21"}
+{"prompt": "Determine the nature of a movie evaluation, discerning if it is positive or negative.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "22"}
+{"prompt": "Form an opinion on whether a film appraisal exhibits a positive or negative sentiment.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "23"}
+{"prompt": "Decide if a review of a film conveys a positive or negative impression.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "24"}
+{"prompt": "Evaluate whether a movie critique reflects a positive or negative viewpoint.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "25"}
+{"prompt": "Analyze the overall sentiment of a movie review, determining if it is positive or negative.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "26"}
+{"prompt": "Judge whether a film evaluation expresses a positive or negative opinion.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "27"}
+{"prompt": "Examine the tone of a movie review, establishing whether it is positive or negative in nature.\nReview: {sentence_1}\nSentiment: {mask_token} .", "index": "28"}

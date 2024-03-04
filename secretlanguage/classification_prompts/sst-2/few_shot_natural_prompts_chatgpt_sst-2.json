@@ -1,0 +1,9 @@
+{"prompt": "Review: a compelling portrait of moral emptiness\nAnswer: positive\n\nReview: a modest and messy metaphysical thriller offering more questions than answers .\nAnswer: negative\n\nReview: {sentence_1}\nAnswer:", "index": 0}
+{"prompt": "Review: his characters are engaging , intimate and the dialogue is realistic and greatly moving .\nAnswer: positive\n\nReview: creepy but ultimately unsatisfying thriller .\nAnswer: negative\n\nReview: {sentence_1}\nAnswer:", "index": 1}
+{"prompt": "Review: merely as a technical , logistical feat , russian ark marks a cinematic milestone .\nAnswer: positive\n\nReview: propelled not by characters but by caricatures .\nAnswer: negative\n\nReview: {sentence_1}\nAnswer:", "index": 2}
+{"prompt": "Review: ability to shock and amaze \nAnswer: positive\n\nReview: they presume their audience wo n't sit still for a sociology lesson , however entertainingly presented , so they trot out the conventional science-fiction elements of bug-eyed monsters and futuristic women in skimpy clothes . \nAnswer: negative\n\nReview: {sentence_1}\nAnswer:", "index": 3}
+{"prompt": "Review: enough sweet and traditional romantic comedy to counter the crudity \nAnswer: positive\n\nReview: 88 minutes of exaggerated action \nAnswer: negative\n\nReview: {sentence_1}\nAnswer:", "index": 4}
+{"prompt": " they trot out the conventional science-fiction elements of bug-eyed monsters and futuristic women in skimpy clothes .\nAnswer: negative\n\nReview: {sentence_1}\nAnswer:", "index": 5}
+{"prompt": "Answer: negative\n\nReview: {sentence_1}\nAnswer:", "index": 6}
+{"prompt": ": 88 minutes of exaggerated action\nAnswer: negative\n\nReview: {sentence_1}\nAnswer:", "index": 7}
+
